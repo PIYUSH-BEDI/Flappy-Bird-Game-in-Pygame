@@ -1,4 +1,4 @@
-# Flappy-Bird-Game-in-Pygame
+# Flappy Bird Game in Pygame
 
 https://user-images.githubusercontent.com/71883669/221099106-3d420bd7-a054-4331-9a52-3aa3f2565b84.mp4
 
